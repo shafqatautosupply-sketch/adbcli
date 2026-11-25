@@ -1,0 +1,9 @@
+Package: com.local.adbi
+Name: adbi
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ADB client with wireless-debugging pairing and TLS for iOS 6
+Maintainer: local
+Author: local
+Section: Networking
+Depends: 
